@@ -1,2 +1,2 @@
 # StreamGrab
-스트리밍 콘텐츠 다운로더
+DeepLearning 전용 다운로더
